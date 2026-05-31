@@ -22,14 +22,18 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 # IP CONNECTIVITY TABLE
 
+<img width="1280" height="960" alt="WhatsApp Image 2026-05-31 at 5 40 51 PM" src="https://github.com/user-attachments/assets/7ad7ad6d-3ab0-4ab0-8341-a606e10cc867" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/04903fd6-39f0-4568-bb02-bc4b92c20594" />
 
 
 # NETWORK DIAGRAM
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/e2c64307-0036-4103-abb6-1c9b2dbc07e0" />
 
 
 
 # OUTPUT
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/82b425e4-dceb-450f-9ba9-34b0fbe39003" />
 
 
 # RESULT
